@@ -14,4 +14,4 @@ React Native app that demonstrates working with async storage , suggestions feat
 ![image](https://res.cloudinary.com/df2q7cryi/image/upload/v1624462276/WhatsApp_Image_2021-06-23_at_8.51.38_PM_twoxup.jpg)
 
 
-## Development  : React-native-cli USB Debugging
+## Built using React-native-cli USB Debugging
