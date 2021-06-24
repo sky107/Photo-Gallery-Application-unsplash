@@ -7,7 +7,7 @@ React Native app that demonstrates working with async storage , suggestions feat
 ## Packages used
 
 
-react , react-native, Aysnc storage ,react-native-double-tap , rn-fetch-blob
+react , react-native, Aysnc storage ,react-native-double-tap , rn-fetch-blob, react-native-splash-screen
 
 
 ##  Features Implemented
@@ -17,12 +17,12 @@ react , react-native, Aysnc storage ,react-native-double-tap , rn-fetch-blob
 
 2)  Double Tap to Storing photo from url in users dir with rn-blob-fetch and permissions accesss
 
-
+3)  Splash Screen
 
 
 ### Code
 
-Total Lines of Code : 500+ lines
+Total Lines of Code : 500+ 
 
 Method : USB Debugging
 
@@ -30,6 +30,6 @@ Method : USB Debugging
 ### Screenshots
 
 ![image](https://res.cloudinary.com/df2q7cryi/image/upload/v1624462276/WhatsApp_Image_2021-06-23_at_8.51.38_PM_twoxup.jpg)
-
+[Video Demonstration Link](https://res.cloudinary.com/df2q7cryi/video/upload/v1624508548/20210624_093918_tjzz33.mp4)
 
 
